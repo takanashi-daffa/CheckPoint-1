@@ -7,3 +7,12 @@ Dataset yang dipakai adalah Brain Stroke Dataset dari Kaggle. Dataset ini berisi
 
 Pada tugas ini, dataset digunakan untuk studi kasus analisis faktor-faktor yang berkaitan dengan risiko stroke. Isi dari file Colab mencakup proses load dataset serta penjelasan Business Understanding seperti tujuan analisis, kondisi dataset, target analisis, dan rencana pengerjaan untuk tahap berikutnya.
 ---
+
+# CheckPoint-2 Data Understanding & EDA
+
+Pada checkpoint ini dilakukan pemeriksaan kualitas data dan eksplorasi data (EDA) dari Brain Stroke Dataset.
+
+Pemeriksaan meliputi struktur data, statistik deskriptif, tipe data, inconsistent values, missing values, duplicated values, dan outliers. Setelah itu dilakukan EDA menggunakan 4 pilar (Comparison, Composition, Distribution, dan Relationship) untuk melihat pola dan hubungan faktor-faktor terhadap stroke.
+---
+Dari hasil analisis, usia terlihat memiliki hubungan paling kuat terhadap kejadian stroke, diikuti oleh hipertensi dan penyakit jantung. Dataset dalam kondisi bersih dan siap digunakan untuk tahap berikutnya.
+---
